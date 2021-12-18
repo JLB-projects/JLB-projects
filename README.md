@@ -1,0 +1,3 @@
+- Hi, I’m Jason.
+- I’m currently learning more about Python and data analytics through fun projects.
+- The more fleshed out projects will eventually end up here.
