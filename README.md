@@ -1,3 +1,4 @@
 - Hello, I’m Jason.
 - I’m currently learning more about Python and Data Analysis/Science.
 - Some projects used as a tool for learning will eventually end up here.
+- More can be found at my [DataQuest](https://app.dataquest.io/profile/jason.burrows1) and [DataCamp](https://www.datacamp.com/profile/jasonburrows1) profiles.
